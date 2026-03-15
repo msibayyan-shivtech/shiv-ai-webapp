@@ -1,0 +1,5 @@
+flask
+textblob
+speechrecognition
+pyttsx3
+pyaudio
